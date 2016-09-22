@@ -1,0 +1,7 @@
+{
+  "email": "andros.cyang@gmail.com",
+  "url": "mimerme.github.io",
+  "dependencies": {
+    "adm-zip": "^0.4.7"
+  }
+}
