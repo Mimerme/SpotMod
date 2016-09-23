@@ -1,0 +1,28 @@
+# SpotMod
+SpotMod is a set of build tools designed to easily setup and utilize a development enviroment for moddifying the Spotify desktop client.
+
+## Installation
+
+- This requires NodeJS and NPM installed download it from [here](https://nodejs.org/en/)
+- Clone this directory with 
+``` 
+git clone https://github.com/Mimerme/SpotMod/
+```
+
+- Enter the directory
+
+- Install the dependencies with
+
+`npm install`
+
+## Usage
+`node unpack list`
+
+This lists all the possible components that can be extracted
+
+`node unpack [module name]`
+
+Unpacks the module into components/[module name]
+
+`node repack [module name]
+Repacks the module into the Spotify components folder 
